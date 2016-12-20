@@ -106,7 +106,7 @@
 #   Description: >
 #                  Align the parameters of a method call if they span more
 #                  than one line.
-#   Enabled: true
+#   Enabled: false
 #
 # DefWithParentheses:
 #   Description: 'Use def with parentheses when there are arguments.'
